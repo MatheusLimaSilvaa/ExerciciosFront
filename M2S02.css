@@ -1,0 +1,30 @@
+h1 {
+    color: aqua;
+    background-color: black;
+    margin: 1%;
+}
+
+p {
+    color: black;
+    background-color: aqua;
+    margin: 2%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    color: rgb(88, 88, 203);
+    background-color: rgb(35, 68, 47);
+    margin: 3%;
+    font-size: small;
+}
+
+form {
+    color: black;
+    background-color: blueviolet;
+    margin: 7%;
+    padding: 5%;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+
